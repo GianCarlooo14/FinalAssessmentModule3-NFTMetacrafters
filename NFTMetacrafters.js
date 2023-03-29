@@ -22,9 +22,9 @@ function getTotalSupply () {
     console.log("TOTAL NFT COLLECTED: " + NFTCollections.length);
 }
 
-mintNFT(3, "Male", "Jacket", 2);
-mintNFT(4, "Female", "T-shirt", 10);
-mintNFT(8, "Male", "Jersey Shirt", 4);
+mintNFT(3, "MALE", "JACKET", 2);
+mintNFT(4, "FEMALE", "T-SHIRT", 10);
+mintNFT(8, "MALE", "JERSEY SHIRT", 4);
 
 listNFTs();
 
